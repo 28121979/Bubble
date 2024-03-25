@@ -1,5 +1,5 @@
 
-<h1>Bienvenue dans le projet "Jeu des Bulles" ! 🎉<h1>
+<div align="center"><h1>Bienvenue dans le projet "Jeu des Bulles" ! 🎉<h1>
 
 ## <div align="center">🟣 Bonjour, voici mon  portfolio [clique ici 👉 ](https://28121979.github.io/Bubble/) 🟣</div>
 

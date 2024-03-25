@@ -1,9 +1,11 @@
-Jeux des Bulles
-Bienvenue dans le projet "Jeux des Bulles" ! 🎉
+
+<h1>Bienvenue dans le projet "Jeu des Bulles" ! 🎉<h1>
+
+## <div align="center">🟣 Bonjour, voici mon  portfolio [clique ici 👉 ](https://28121979.github.io/PortfolioV2/) 🟣</div>
 
 Ce projet amusant et interactif vous emmène dans un monde de bulles colorées où vous pouvez éclater autant de bulles que possible. Mais avant de plonger dans l'amusement, laissez-moi vous expliquer les différents types de programmation utilisés ici.
 
-Types de Programmation
+<h2>Types de Programmation<h2>
 1. Programmation Déclarative
 Dans ce projet, nous avons utilisé la programmation déclarative pour décrire la structure de notre page HTML. Cela signifie que nous déclarons simplement les éléments que nous voulons voir sur la page sans nous soucier des détails de leur mise en œuvre.
 
@@ -19,5 +21,5 @@ Bien que notre exemple soit relativement simple, il est possible d'appliquer des
 Thème et Style
 Nous avons choisi un thème amusant et coloré pour ce projet afin de capturer l'attention et l'enthousiasme des utilisateurs. Les bulles colorées flottant à l'écran créent une atmosphère ludique et engageante.
 
-Amusez-vous bien à éclater des bulles et à explorer les différents aspects de la programmation impliqués dans ce projet ! Si vous avez des questions ou des suggestions, n'hésitez pas à nous contacter. 😊✨
+Amusez-vous bien à éclater des bulles et à explorer les différents aspects de la programmation impliqués dans ce projet ! Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter. 😊✨
 

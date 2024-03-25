@@ -1,7 +1,7 @@
 
 <div align="center"><h1>Bienvenue dans le projet "Jeu des Bulles" ! 🎉<h1>
 
-## <div align="center">🟣 Bonjour, voici mon  portfolio [clique ici 👉 ](https://28121979.github.io/Bubble/) 🟣</div>
+## <div align="center">🟣 Bonjour, voici mon  projet [clique ici 👉 ](https://28121979.github.io/Bubble/) 🟣</div>
 
 Ce projet amusant et interactif vous emmène dans un monde de bulles colorées où vous pouvez éclater autant de bulles que possible. Mais avant de plonger dans l'amusement, laissez-moi vous expliquer les différents types de programmation utilisés ici.
 

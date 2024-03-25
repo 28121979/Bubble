@@ -5,7 +5,7 @@
 
 Ce projet amusant et interactif vous emmène dans un monde de bulles colorées où vous pouvez éclater autant de bulles que possible. Mais avant de plonger dans l'amusement, laissez-moi vous expliquer les différents types de programmation utilisés ici.
 
-<h2>Types de Programmation<h2>
+<h2>Types de Programmation</h2>
 1. Programmation Déclarative
 Dans ce projet, nous avons utilisé la programmation déclarative pour décrire la structure de notre page HTML. Cela signifie que nous déclarons simplement les éléments que nous voulons voir sur la page sans nous soucier des détails de leur mise en œuvre.
 
